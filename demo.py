@@ -89,7 +89,7 @@ def main():
     global logger
     init_logger()
     driver = init_driver()
-    open_page(driver, 'http://globale:globalelocal@anna.bglobale.de', 'globale_popup')
+    open_page(driver, 'http://username:password@anna.bglobale.de', 'globale_popup')
     driver.find_element_by_css_selector('.backToShop').click()
     try:
         wait_for_id(driver, 10, 'globale_popup')
