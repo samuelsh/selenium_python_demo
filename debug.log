@@ -1,0 +1,163 @@
+2017-02-09 14:47:55,798 - INFO - WebDriver init successful
+2017-02-09 14:48:01,727 - INFO - Page http://globale:globalelocal@anna.bglobale.de is ready!
+2017-02-09 14:48:11,879 - INFO - Intro popup closed
+2017-02-09 14:48:12,055 - INFO - Shipping popup opened
+2017-02-09 14:48:13,871 - INFO - Selected country: ISRAEL
+2017-02-09 14:48:15,118 - INFO - Selected currency: ISRAELI SHEQEL
+2017-02-09 14:48:15,331 - INFO - Saving Preferences...
+2017-02-09 14:48:16,599 - INFO - Done Saving
+2017-02-09 14:48:16,599 - INFO - Searching for Clothing menu item...
+2017-02-09 14:48:16,622 - INFO - Element nav is ready!
+2017-02-09 14:48:16,697 - INFO - Clothing entry found!
+2017-02-09 14:48:19,223 - INFO - Searching for Dresses in sidebar...
+2017-02-09 14:48:19,425 - INFO - Dresses entry found!
+2017-02-09 14:48:24,093 - INFO - Element .item h2 is ready!
+2017-02-09 14:48:24,093 - INFO - Searching for Crepe Jersey Fringe Cowl Dress...
+2017-02-09 14:48:24,187 - INFO - h2 CHIARA NECK PLEAT DRESS
+2017-02-09 14:48:24,263 - INFO - h2 CREPE JERSEY FRINGE COWL DRESS
+2017-02-09 14:48:24,277 - INFO - Product Found!
+2017-02-09 14:48:26,248 - INFO - Adding Product to bag...
+2017-02-09 14:48:26,270 - INFO - Element attribute492 is ready!
+2017-02-09 14:48:29,894 - INFO - Product added to bag
+2017-02-09 14:48:29,894 - INFO - Checking Bag...
+2017-02-09 14:48:29,985 - INFO - Moving to Shopping bag...
+2017-02-09 14:48:33,347 - INFO - Element .checkout-types is ready!
+2017-02-09 14:48:33,347 - INFO - Moving to Checkout page
+2017-02-09 14:48:40,259 - INFO - Page http://anna.bglobale.de/onestepcheckout/ is ready!
+2017-02-09 14:48:40,318 - INFO - Token found: ad0e3db6-6d57-4c4b-9f05-ee0d99919d9a
+2017-02-09 14:48:40,318 - INFO - Filling user data...
+2017-02-09 14:48:42,185 - INFO - Element btnPay is ready!
+2017-02-09 14:48:42,211 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:48:42,222 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:48:42,230 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:48:42,238 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:48:42,247 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:48:42,257 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:48:42,263 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:48:42,272 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:48:42,279 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:48:42,287 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:48:42,294 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:48:42,304 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:48:42,312 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:48:42,319 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:48:42,325 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:48:42,332 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:48:42,339 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:48:42,345 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:48:42,351 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:48:42,358 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:48:42,364 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:48:42,370 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:48:42,377 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:48:42,384 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:48:42,392 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:48:42,400 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:48:42,407 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:48:42,414 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:48:42,421 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:48:42,438 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:48:42,448 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:48:42,461 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:48:42,472 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:48:42,480 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:48:42,490 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:48:42,498 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:48:42,511 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:48:42,522 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:48:42,532 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:48:42,544 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:48:42,576 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:48:53,104 - INFO - GE_OVerlay closed
+2017-02-09 14:48:55,801 - INFO - Element orderConfirmationMessage is ready!
+2017-02-09 14:48:55,886 - INFO - Order GE93626826GB successfully received. Test completed
+2017-02-09 14:50:52,695 - INFO - WebDriver init successful
+2017-02-09 14:50:57,254 - INFO - Page http://globale:globalelocal@anna.bglobale.de is ready!
+2017-02-09 14:51:07,878 - INFO - Intro popup closed
+2017-02-09 14:51:08,053 - INFO - Shipping popup opened
+2017-02-09 14:51:09,840 - INFO - Selected country: ISRAEL
+2017-02-09 14:51:11,127 - INFO - Selected currency: ISRAELI SHEQEL
+2017-02-09 14:51:11,385 - INFO - Saving Preferences...
+2017-02-09 14:51:12,663 - INFO - Done Saving
+2017-02-09 14:51:12,663 - INFO - Searching for Clothing menu item...
+2017-02-09 14:51:12,686 - INFO - Element nav is ready!
+2017-02-09 14:51:12,760 - INFO - Clothing entry found!
+2017-02-09 14:51:15,334 - INFO - Searching for Dresses in sidebar...
+2017-02-09 14:51:15,532 - DEBUG - Span span DRESSES
+2017-02-09 14:51:15,543 - INFO - Dresses entry found!
+2017-02-09 14:51:17,953 - INFO - Element .item h2 is ready!
+2017-02-09 14:51:17,953 - INFO - Searching for Crepe Jersey Fringe Cowl Dress...
+2017-02-09 14:51:18,012 - INFO - h2 CHIARA NECK PLEAT DRESS
+2017-02-09 14:51:18,050 - INFO - h2 CREPE JERSEY FRINGE COWL DRESS
+2017-02-09 14:51:18,059 - INFO - Product Found!
+2017-02-09 14:51:19,861 - INFO - Adding Product to bag...
+2017-02-09 14:51:19,995 - INFO - Element attribute492 is ready!
+2017-02-09 14:51:23,221 - INFO - Product added to bag
+2017-02-09 14:51:23,221 - INFO - Checking Bag...
+2017-02-09 14:51:23,486 - INFO - Moving to Shopping bag...
+2017-02-09 14:51:28,118 - INFO - Element .checkout-types is ready!
+2017-02-09 14:51:28,118 - INFO - Moving to Checkout page
+2017-02-09 14:51:35,041 - INFO - Page http://anna.bglobale.de/onestepcheckout/ is ready!
+2017-02-09 14:51:35,130 - INFO - Token found: 8139f222-8918-4b00-a433-d88b74447df8
+2017-02-09 14:51:35,131 - INFO - Filling user data...
+2017-02-09 14:51:36,901 - INFO - Element btnPay is ready!
+2017-02-09 14:51:36,930 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:51:36,951 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:51:36,961 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:51:36,973 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:51:36,981 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:51:36,989 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:51:36,996 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:51:37,003 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:51:37,009 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:51:37,016 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:51:37,023 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:51:37,029 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:51:37,038 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:51:37,048 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:51:37,057 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:51:37,065 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:51:37,072 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:51:37,078 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:51:37,084 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:51:37,090 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:51:37,097 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:51:37,103 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:51:37,110 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:51:37,116 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:51:37,123 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:51:37,129 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:51:37,137 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:51:37,147 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:51:37,154 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:51:37,160 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:51:37,167 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:51:37,173 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:51:37,180 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:51:37,186 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:51:37,192 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:51:37,199 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:51:37,205 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:51:37,213 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:51:37,221 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:51:37,228 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:51:37,234 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:51:37,240 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:51:37,248 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:51:37,254 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:51:37,261 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:51:37,278 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:51:37,287 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:51:37,294 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:51:37,301 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:51:37,316 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:51:37,329 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:51:37,342 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:51:37,350 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:51:37,359 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:51:37,367 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:51:37,380 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:51:37,392 - INFO - Element GE_Overlay is ready!
+2017-02-09 14:51:47,394 - INFO - GE_OVerlay closed
+2017-02-09 14:51:49,968 - INFO - Element orderConfirmationMessage is ready!
+2017-02-09 14:51:50,069 - INFO - Order GE93626923GB successfully received. Test completed
